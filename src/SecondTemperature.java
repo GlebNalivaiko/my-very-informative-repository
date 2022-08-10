@@ -1,5 +1,5 @@
 import java.util.Random;
-public class Temperature2 {
+public class SecondTemperature {
     public static void main(String[] args) {
         int i = new Random().nextInt(-30,31);
         System.out.println(i);

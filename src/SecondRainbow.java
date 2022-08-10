@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Rainbow2{
+public class SecondRainbow {
     public static void main(String[] args){
         int i =new Random().nextInt(1,8);
         System.out.println(i);

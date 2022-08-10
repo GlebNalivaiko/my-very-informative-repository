@@ -10,6 +10,7 @@ public class Guessing {
             int in=sc.nextInt();
             if(i==in){
                 System.out.println("Молодец!\nТак держать!");
+                return;
             }else {
                 switch (b){
                     case 1->System.out.print("Осталось 2 попытки:");

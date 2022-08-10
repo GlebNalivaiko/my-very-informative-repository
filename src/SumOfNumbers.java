@@ -6,7 +6,7 @@ public class SumOfNumbers {
         Scanner sc= new Scanner(System.in);
         double d =sc.nextInt();
         if(d<100 && d>0 ){
-            System.out.println("Сумма:"+(d++/2*d));
+            System.out.println("Сумма:"+( d * (++d) /2));
         }else{
             System.out.println("К сожалению, Вы не можете указать число превышающее 100, а также любое отрицательное число и ноль!");
         }

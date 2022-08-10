@@ -11,10 +11,10 @@ public class GuessingGame {
                 System.out.println("Молодец!\nТы отгадал число!");
                 return;
             }else if (g==1&& in!=i){
-                System.out.print("Осталось 2 попытки:");
+                System.out.print("Введите новое число!\nОсталось 2 попытки:");
             }
             else if (g==2&& in!=i){
-                System.out.print("Последняя попытка, друг:");
+                System.out.print("Введите новое число\nПоследняя попытка, друг:");
             }else if (g==3){
                 System.out.println("К сожалению, ты проиграл!\nЕсли хочешь попробовать ещё раз нажми Run!");
             }

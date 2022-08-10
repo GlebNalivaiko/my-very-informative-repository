@@ -16,7 +16,7 @@ public class Bank {
         System.out.print("Сумма вклада: ");
         float i= sc.nextFloat();
         System.out.print("Количество месяцев: ");
-        float g= sc.nextFloat();
+        int g= sc.nextInt();
             System.out.println("Итоговая сумма:"+ i*Math.pow(1.07f,g));
         System.out.println("Спасибо, что воспользовались услугами нашего банка!\nОцените нашу работу по десятибалльной шкале!");
         byte b=sc.nextByte();// Оценка услуги

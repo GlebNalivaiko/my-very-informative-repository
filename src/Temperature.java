@@ -8,7 +8,7 @@ public class Temperature {
             System.out.println("Тепло");
         }else if (i <= -20) {
             System.out.println("Холодно");
-        }else if (i<=-5 && i>-20) {
+        }else{
             System.out.println("Нормально");
         }
     }

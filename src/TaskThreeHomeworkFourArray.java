@@ -1,4 +1,4 @@
-public class FourthTaskAboutMassive {
+public class TaskThreeHomeworkFourArray {
     public static void  main(String[] args){
         int[] arr=new int[]{2,4,34,83,6};
         float average=0f;

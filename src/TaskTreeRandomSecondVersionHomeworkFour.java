@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class FifthTaskAboutMassive {
+public class TaskTreeRandomSecondVersionHomeworkFour {
     public  static  void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Please, enter the number of arrays:");

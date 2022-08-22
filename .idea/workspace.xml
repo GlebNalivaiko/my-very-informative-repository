@@ -1,14 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5759e6ab-71b7-4899-8733-fb45241198ab" name="Changes" comment="" />
+    <list default="true" id="5759e6ab-71b7-4899-8733-fb45241198ab" name="Changes" comment="Fixed bugs and changed the names">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FifthTaskAboutMassive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FourthTaskAboutMassive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Massive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MassiveTop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SecondTaskAboutMassive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TaskFourWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdTaskAboutMassive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bank2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Guessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Guessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GuessingGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GuessingGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rainbow2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondRainbow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SumOfNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaskWithFor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Temperature2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondTemperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/While2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SecondWhile.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="classwork/lesson-2_hello_world" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2Coc2Jm4m49UUKrUut60UloOtWA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +61,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.StringArray">
+    <configuration name="FifthTaskAboutMassive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FifthTaskAboutMassive" />
+      <module name="my-very-informative-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringArray" />
+      <module name="my-very-informative-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfNumbers" />
+      <module name="my-very-informative-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskWithFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TaskWithFor" />
+      <module name="my-very-informative-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Temperature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Temperature" />
+      <module name="my-very-informative-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringArray" />
+        <item itemvalue="Application.FifthTaskAboutMassive" />
+        <item itemvalue="Application.Temperature" />
+        <item itemvalue="Application.TaskWithFor" />
+        <item itemvalue="Application.SumOfNumbers" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +123,135 @@
       <option name="presentableId" value="Default" />
       <updated>1659472169998</updated>
     </task>
+    <task id="LOCAL-00001" summary="added one photo and two presentations">
+      <created>1659472686938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1659472686938</updated>
+    </task>
+    <task id="LOCAL-00002" summary="I did a few actions with the operators">
+      <created>1659473579785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659473579785</updated>
+    </task>
+    <task id="LOCAL-00003" summary="my first java program">
+      <created>1659474004854</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1659474004854</updated>
+    </task>
+    <task id="LOCAL-00004" summary="I wrote my first program using the scanner class">
+      <created>1659508881428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659508881428</updated>
+    </task>
+    <task id="LOCAL-00005" summary="I have written several programs with operators">
+      <created>1659877394783</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659877394783</updated>
+    </task>
+    <task id="LOCAL-00006" summary="I wrote several programs with the operators">
+      <created>1659965224636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659965224636</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="homework/lesson-3_tasks_with_operators" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added one photo and two presentations" />
+    <MESSAGE value="I did a few actions with the operators" />
+    <MESSAGE value="my first java program" />
+    <MESSAGE value="I wrote my first program using the scanner class" />
+    <MESSAGE value="I have written several programs with operators" />
+    <MESSAGE value="I wrote several programs with the operators" />
+    <option name="LAST_COMMIT_MESSAGE" value="I wrote several programs with the operators" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Rainbow.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Rainbow.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SecondBank.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Sequence.java</url>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MindTable.java</url>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Guessing.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Massive.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Method.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Work.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TaskFourWhile.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
